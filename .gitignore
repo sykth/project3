@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit (비밀키는 절대 올리지 말기)
+.streamlit/secrets.toml
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 데스크톱 버전이 저장하는 파일
+desktop/projectile_equations.md
